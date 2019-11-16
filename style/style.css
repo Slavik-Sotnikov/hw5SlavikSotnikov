@@ -1,0 +1,152 @@
+body{
+  color:whitesmoke;
+  transition:1s;
+}
+h2{
+  margin: 0;
+}
+body{
+  margin:0;
+}
+img{
+  position:absolute;
+  margin:0;
+  padding:0;
+  max-width:2015px;
+}
+.header{
+  max-width:2015px;
+  max-height:862px;
+  background-color:rgba(40 , 44, 51, 0.9);
+  height:726px;
+  position: relative;
+}
+.headerText{
+  margin:0 auto;
+  font-size: 25px;
+  max-width:774px;
+}
+.orange{
+  color: #e57100;
+}
+.headerFlex{
+  display: inline-block;
+  width:49%;
+  text-align: center;
+  margin:0;
+  padding:30px 0;
+}
+button{
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  transition:1s;
+}
+.menuIcon{
+  width:26px;
+  max-height:20px;
+  display:inherit;
+  margin-left:8px;
+}
+.menuButton:hover{
+  font-size:18px;
+}
+.line{
+  border:1px solid #ffffff;
+  max-width:22px;
+  margin-top:6px;
+  display:block;
+
+}
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  margin-bottom: 0;
+  margin-top:10%  ;
+}
+.headerSection{
+  text-align:center;
+}
+.headerButton{
+  padding:20px;
+  border:1px solid grey;
+  border-radius:15px;
+  margin:40px;
+  opacity:1;
+  width:210px;
+}
+.headerButton:hover{
+  background-color: #e57100;
+}
+.circle{
+  margin:100px auto 30px auto;
+  width:34px;
+  height:34px;
+  border:2px solid darkgrey;
+  border-radius: 50%;
+  transition:1s;
+}
+.arrow{
+  width:14px;
+  height:14px;
+  border-right:2px solid darkgrey;
+  border-bottom:2px solid darkgrey;
+  transform:rotate(45deg);
+  margin:6px auto;
+}
+.whatWeDo{
+  background-color:white;
+  max-height:500px;
+  padding:100px 0 100px 24%;
+}
+.WWDElement{
+  display:inline-block;
+  margin-left:30px;
+  max-width:180px;
+  max-height:280px;
+  text-align:center;
+}
+.icon{
+  width:151px;
+  height:151px;
+  border:1px solid #b2b2b2;
+  border-radius:49%;
+  margin-left:7%;
+}
+h3 , .WWDText {
+  color: #454545;
+}
+i{
+  margin-left:-7%;
+  margin-top: 30%;
+  color: #e57100;
+  width:54px;
+  height:54px;
+}
+.emailPlace{
+  background-color:rgba(40 , 44, 51, 0.9);
+  width:100%;
+  padding:50px 0 90px 30%;
+}
+input{
+  width:562px;
+  padding:10px;
+  height:30px;
+  font-size:18px;
+  border:none;
+  border-radius:10px;
+}
+.subscribeButton{
+  width:269px;
+  height:50px;
+  text-align:center;
+  background-color:#e57100;
+  border-radius:40px;
+  margin-left:20px;
+  transition:1s;
+}
+.subscribeButton:hover{
+  background-color: #ffb300;
+}
